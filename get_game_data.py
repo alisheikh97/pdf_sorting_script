@@ -1,7 +1,6 @@
 import os 
 import json
 import shutil
-from subprocess import PIPE, run
 import sys
 
 FILE_DIR_PATTERN = '.pdf'
